@@ -14,3 +14,8 @@
 /build
 /captures
 .externalNativeBuild
+/README.md
+/.github/
+/.idea/
+/app/src/androidTest/
+/app/src/test/
